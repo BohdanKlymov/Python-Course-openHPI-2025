@@ -1,5 +1,5 @@
 # Python-Course-openHPI-2025
-This repository is dedicated to my progress through the Python Course on openHPI.
+This repository is dedicated to my progress through the Python Course on openHPI: https://open.hpi.de/courses/python2025.
 
 The course is designed to provide a solid introduction to Python for new developers and to give experienced programmers a fresh perspective through engaging questions and exciting hands-on exercises.
 It runs for six weeks and concludes with a final exam.
