@@ -1,20 +1,42 @@
 # Python-Course-openHPI-2025
-This repository is dedicated to my progress through the Python Course on openHPI: https://open.hpi.de/courses/python2025.
 
-The course is designed to provide a solid introduction to Python for new developers and to give experienced programmers a fresh perspective through engaging questions and exciting hands-on exercises.
-It runs for six weeks and concludes with a final exam.
+This repository documents my progress through the [Python Course on openHPI](https://open.hpi.de/courses/python2025)
+
+The course is designed to give a solid foundation in Python programming for beginners while also providing a fresh and engaging perspective for experienced developers.
+It runs over six weeks and concludes with a final exam and certificate.
 
 ## Purpose
 
-I am taking this course to strengthen my fundamental Python skills.
-It includes numerous videos, quizzes, and practical coding exercises, helping participants to deepen their understanding of the language and apply it effectively.
+I am taking this course to strengthen my core Python skills and deepen my understanding of the language through:
+
+Clear and structured video lectures
+
+Interactive quizzes and coding exercises
+
+Practical programming challenges
+
+Each topic builds on the previous one, helping to develop both logical thinking and problem-solving abilities in Python.
 
 ## About This Repository
 
-This repository contains the exercises and code solutions I have written while completing the course.
-Each file reflects what I learned in a specific module or topic covered during the program.
+This repository contains:
+
+My completed exercises and solutions for each week’s topics
+
+Small code projects demonstrating key Python concepts
+
+Occasional notes or explanations that summarize what I learned
+
+Each file corresponds to a specific week or module in the course.
+
+## My Work – Screenshots
+
+I will update this section after completing the course to include code samples, outputs, and screenshots from the openHPI platform.
 
 ## Future Updates
 
-After successfully completing the course,
-I will upload my certificate of completion (diploma) to this repository.
+After successfully completing the course:
+
+I will upload my official openHPI certificate (diploma)
+
+Add a short summary of key takeaways from all six weeks
