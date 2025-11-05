@@ -11,6 +11,12 @@
 #     the price per item with 7 digits, 2 digits after the decimal point
 #     the total price (number of items * price per item) with 8 digits in total, 2 digits after the decimal point
 
+# If there are two lines with the following content “Apple 5 0.99” and “Cherry 2 11.99”, 
+# then the beautified output should look as follows:
+
+# Apple           15   0.99   14.85
+# Cherry           2  11.99   23.98
+
 data = []
 
 with open("invoice_data.txt", "r") as read_file:
