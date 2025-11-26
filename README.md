@@ -1,42 +1,107 @@
-# Python-Course-openHPI-2025
+# Python Course — openHPI 2025
 
-This repository documents my progress through the [Python Course on openHPI](https://open.hpi.de/courses/python2025)
+A six-week journey into modern Python programming
 
-The course is designed to give a solid foundation in Python programming for beginners while also providing a fresh and engaging perspective for experienced developers.
-It runs over six weeks and concludes with a final exam and certificate.
-
-## Purpose
-
-I am taking this course to strengthen my core Python skills and deepen my understanding of the language through:
-
-Clear and structured video lectures
-
-Interactive quizzes and coding exercises
-
-Practical programming challenges
-
-Each topic builds on the previous one, helping to develop both logical thinking and problem-solving abilities in Python.
+<p> <img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python" /> <img src="https://img.shields.io/badge/openHPI-Course-orange?logo=google-classroom" /> <img src="https://img.shields.io/badge/Status-Completed-success?logo=checkmarx" /> <img src="https://img.shields.io/badge/Certificate-Pending-yellow?logo=openbadges" /> </p>
 
 ## About This Repository
 
-This repository contains:
+This repository documents my progress through the
+Python for Beginners (2025) course on openHPI.
 
-My completed exercises and solutions for each week’s topics
+It contains all my completed coding exercises, weekly assignments, screenshots, and personal notes.
+The goal is to demonstrate the learning path, show real course output, and provide an example for others interested in the course.
 
-Small code projects demonstrating key Python concepts
+## About the openHPI Python Course
 
-Occasional notes or explanations that summarize what I learned
+According to the course overview, the Python for Beginners track teaches the essentials of Python through:
 
-Each file corresponds to a specific week or module in the course.
+## What You Learn:
 
-## My Work – Screenshots
+How to install and run Python programs
 
-I will update this section after completing the course to include code samples, outputs, and screenshots from the openHPI platform.
+Variables, data types, and basic operators
+
+Writing functions and using return values
+
+Loops (for, while) and conditional logic
+
+Working with lists, strings & collections
+
+File handling
+
+Error handling and debugging
+
+Best practices for clean and readable Python code
+
+## Format
+
+6-week program
+
+Weekly lectures & video explanations
+
+Interactive coding exercises in the browser
+
+Short quizzes after each unit
+
+Final exam + weekly graded tasks
+
+Certificate upon successful completion
+
+The course is suitable for complete beginners, but also useful for refreshing fundamentals.
+
+## Purpose of This Project
+
+I created this repository to:
+
+Track my personal learning progress
+
+Store and version-control my exercises
+
+Demonstrate my understanding of Python
+
+Build a structured and professional portfolio piece
+
+## Screenshots
+
+All screenshots are organized in /screenshots.
+
+### Exams & Results
+
+Final Exam:
+There were about 40 quastions.
+
+<img src="screenshots/final_exam.png" alt="" width="700"/>
+
+Weekly Exam:
+There always were about 15 quastions.
+
+<img src="screenshots/weekly_final_exam.png" alt="" width="700"/>
+
+### Learning Interface
+
+Coding Environment / Compiler
+
+<img src="screenshots/compiler_for_exercises.png" alt="" width="700"/>
+
+### Video & Questions
+
+Video Tutorial Player
+
+<img src="screenshots/video_tutorial.png" alt="" width="700"/>
+
+Short Questions After Videos
+
+<img src="screenshots/short_questions_after_videos.png" alt="" width="700"/>
+
+## Certificate Status
+
+I have completed all course units, exercises, and the final exam.
+I am currently waiting for the official openHPI certificate.
+As soon as I receive it, I will add it to this repository.
 
 ## Future Updates
 
-After successfully completing the course:
+Upload the official openHPI certificate.
 
-I will upload my official openHPI certificate (diploma)
-
-Add a short summary of key takeaways from all six weeks
+Add screenshots of final exam results.
