@@ -68,10 +68,9 @@ All screenshots are organized in /screenshots.
 
 ### Exams & Results
 
-Final Exam:
-There were about 40 quastions.
+My learning progress:
 
-<img src="screenshots/final_exam.png" alt="" width="700"/>
+<img src="screenshots/progress.png" alt="" width="700"/>
 
 Weekly Exam:
 There always were about 15 quastions.
@@ -94,14 +93,17 @@ Short Questions After Videos
 
 <img src="screenshots/short_questions_after_videos.png" alt="" width="700"/>
 
-## Certificate Status
+## Certificate
 
-I have completed all course units, exercises, and the final exam.
-I am currently waiting for the official openHPI certificate.
-As soon as I receive it, I will add it to this repository.
+I have successfully completed the **Python for Beginners (2025)** course on openHPI.
 
-## Future Updates
+### 📄 Official Certificates
 
-Upload the official openHPI certificate.
+You can view/download the certificates here:
 
-Add screenshots of final exam results.
+- [Certificate Part 1 (PDF)](certificates/python2025_RecordOfAchievement.pdf)
+- [Certificate Part 2 (PDF)](certificates/python2025_ConfirmationOfParticipation.pdf)
+
+### Certificate Screenshot
+
+<img src="certificates/certificate.png" alt="OpenHPI Certificate Screenshot" width="700"/>
